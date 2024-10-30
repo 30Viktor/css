@@ -1,0 +1,47 @@
+body{
+    background-color: rgba(211, 226, 212, 0.726);
+}
+header{
+    background-color: rgb(201, 201, 201);
+    justify-content: center;
+    margin: 0px 353px 0px 353px;
+}
+.header{
+color: rgba(255, 0, 43, 0.658);
+font-size: 50px;
+margin-left: 100px;
+}
+.section{
+color: blueviolet;
+margin-left: 100px;
+font-size: large;
+}
+main{
+display: flex;
+justify-content: center;
+}
+
+.content{
+background-color: rgb(201, 201, 201);
+width: 600px;
+height: 300px;
+}
+.sidebar{
+background-color: rgb(201, 201, 201);
+width: 600px;
+height: 300px;
+}
+#footer{
+background-color: rgb(201, 201, 201);
+color: white;
+height: 100px;
+margin: 100px 353px 0px 353px;
+}
+#peszki{
+ background-color: rgb(201, 201, 201);
+margin: 0px 353px 0px 353px;
+justify-content: center;
+}
+footer.header{
+    font-size: small;
+}
